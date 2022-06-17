@@ -1,0 +1,40 @@
+{
+  "_from": "cordova-plugin-wezka-nativecamera-m",
+  "_id": "cordova-plugin-wezka-nativecamera-m@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-t5BQ5Lf4yjGQ8cIWgkYYa9lYJ/EFt0i4ePele2zqc2m9uNLtki7MtI4/9X9KKcwgTFirEoodWY1pB5eV295MWQ==",
+  "_location": "/cordova-plugin-wezka-nativecamera-m",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-wezka-nativecamera-m",
+    "name": "cordova-plugin-wezka-nativecamera-m",
+    "escapedName": "cordova-plugin-wezka-nativecamera-m",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-wezka-nativecamera-m/-/cordova-plugin-wezka-nativecamera-m-1.0.1.tgz",
+  "_shasum": "0b6d982c0116acda0e2262ffa931764ca2d8d7ba",
+  "_spec": "cordova-plugin-wezka-nativecamera-m",
+  "_where": "E:\\ionic-3\\nwayerp",
+  "bugs": {
+    "url": "https://github.com/marca116/cordova-plugin-wezka-nativecamera-m/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "com.wezka.nativecamera",
+  "homepage": "https://github.com/marca116/cordova-plugin-wezka-nativecamera-m#readme",
+  "license": "MIT",
+  "name": "cordova-plugin-wezka-nativecamera-m",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marca116/cordova-plugin-wezka-nativecamera-m.git"
+  },
+  "version": "1.0.1"
+}
